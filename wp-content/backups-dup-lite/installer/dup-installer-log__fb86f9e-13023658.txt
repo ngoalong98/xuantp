@@ -1,0 +1,1493 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 02:46:40
+* VERSION: 1.4.0
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ CURRENT SERVER                         |ORIGINAL SERVER
+PHP VERSION_________: 7.4.16                                |7.4.3
+OS__________________: Linux                                 |WINNT
+CREATED_____________: 2021-05-13 02:36:58
+WP VERSION__________: 5.7.2
+DUP VERSION_________: 1.4.0
+DB__________________: 10.1.48
+DB TABLES___________: 116
+DB ROWS_____________: 62,328
+DB FILE SIZE________: 87.86MB
+********************************************************************************
+SERVER INFO
+PHP_________________: 7.4.3 | SAPI: apache2handler
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.3
+DOC ROOT____________: "C:/xampp/htdocs/xuantp"
+DOC ROOT 755________: true
+LOG FILE 644________: true
+REQUEST URL_________: "http://localhost/xuantp/dup-installer/main.installer.php"
+********************************************************************************
+USER INPUTS
+ARCHIVE ACTION______: "donothing"
+ARCHIVE ENGINE______: "ziparchive"
+SET DIR PERMS_______: 0
+DIR PERMS VALUE_____: 644
+SET FILE PERMS______: 0
+FILE PERMS VALUE____: 755
+SAFE MODE___________: "0"
+LOGGING_____________: "1"
+CONFIG MODE_________: "NEW"
+FILE TIME___________: "current"
+********************************************************************************
+
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "C:/xampp/htdocs/xuantp/20210513_xuanthanhphat_[HASH]_20210513023658_archive.zip"
+SIZE________________: 111.25MB
+
+PRE-EXTRACT-CHECKS
+- PASS: Apache '.htaccess' not found - no backup needed.
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+BEFORE EXTRACION ACTIONS
+MAINTENANCE MODE ENABLE
+
+
+START ZIP FILE EXTRACTION STANDARD >>> 
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "C:/xampp/htdocs/xuantp/20210513_xuanthanhphat_[HASH]_20210513023658_archive.zip"
+SIZE________________: 111.25MBFile timestamp set to Current: 2021-05-13 02:46:55
+<<< ZipArchive Unzip Complete: true
+--------------------------------------
+POST-EXTACT-CHECKS
+--------------------------------------
+
+PERMISSION UPDATES: None Applied
+
+STEP-1 COMPLETE @ 02:46:55 - RUNTIME: 15.0007 sec.
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 02:47:26
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+NON-BREAKING SPACES_: false
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.4.11 -- Build Server: 10.1.48
+FILE SIZE:	dup-database__[HASH].sql (53.13MB)
+TIMEOUT:	5000
+MAXPACK:	1048576
+SQLMODE:	NO_ZERO_IN_DATE,NO_ZERO_DATE,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[C:/xampp/htdocs/xuantp/dup-installer/dup-installer-data__[HASH].sql]
+COLLATE FB:	Off
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	1044
+
+wp_commentmeta: (0)
+wp_comments: (0)
+wp_db7_forms: (14)
+wp_duplicator_packages: (0)
+wp_gks_sliders: (0)
+wp_gks_slides: (0)
+wp_icl_content_status: (0)
+wp_icl_core_status: (0)
+wp_icl_flags: (65)
+wp_icl_languages: (65)
+wp_icl_languages_translations: (4225)
+wp_icl_locale_map: (2)
+wp_icl_message_status: (0)
+wp_icl_mo_files_domains: (0)
+wp_icl_node: (0)
+wp_icl_reminders: (0)
+wp_icl_string_batches: (0)
+wp_icl_string_packages: (4)
+wp_icl_string_pages: (0)
+wp_icl_string_positions: (1908)
+wp_icl_string_status: (0)
+wp_icl_string_translations: (4)
+wp_icl_string_urls: (0)
+wp_icl_strings: (9089)
+wp_icl_translate: (146)
+wp_icl_translate_job: (6)
+wp_icl_translation_batches: (3)
+wp_icl_translation_downloads: (0)
+wp_icl_translation_status: (91)
+wp_icl_translations: (385)
+wp_links: (0)
+wp_masterslider_options: (2)
+wp_masterslider_sliders: (1)
+wp_mclean_refs: (93)
+wp_mclean_scan: (0)
+wp_options: (556)
+wp_postmeta: (14354)
+wp_posts: (2231)
+wp_revslider_css: (153)
+wp_revslider_css_bkp: (158)
+wp_revslider_layer_animations: (6)
+wp_revslider_layer_animations_bkp: (6)
+wp_revslider_navigations: (0)
+wp_revslider_navigations_bkp: (0)
+wp_revslider_sliders: (42)
+wp_revslider_sliders_bkp: (42)
+wp_revslider_slides: (109)
+wp_revslider_slides_bkp: (111)
+wp_revslider_static_slides: (19)
+wp_revslider_static_slides_bkp: (18)
+wp_statistics_exclusions: (0)
+wp_statistics_historical: (0)
+wp_statistics_pages: (694)
+wp_statistics_search: (53)
+wp_statistics_useronline: (0)
+wp_statistics_visit: (164)
+wp_statistics_visitor: (1445)
+wp_statistics_visitor_relationships: (0)
+wp_term_relationships: (116)
+wp_term_taxonomy: (32)
+wp_termmeta: (0)
+wp_terms: (32)
+wp_toolset_associations: (0)
+wp_toolset_connected_elements: (0)
+wp_toolset_post_guid_id: (0)
+wp_toolset_relationships: (0)
+wp_toolset_type_sets: (0)
+wp_usermeta: (28)
+wp_users: (1)
+wp_wc_download_log: (0)
+wp_wc_product_meta_lookup: (7)
+wp_wc_tax_rate_classes: (2)
+wp_wc_webhooks: (0)
+wp_wfblockediplog: (342)
+wp_wfblocks7: (0)
+wp_wfconfig: (259)
+wp_wfcrawlers: (0)
+wp_wffilechanges: (0)
+wp_wffilemods: (9321)
+wp_wfhits: (1540)
+wp_wfhoover: (0)
+wp_wfissues: (5)
+wp_wfknownfilelist: (9321)
+wp_wflivetraffichuman: (0)
+wp_wflocs: (0)
+wp_wflogins: (2000)
+wp_wfls_2fa_secrets: (0)
+wp_wfls_settings: (19)
+wp_wfnotifications: (7)
+wp_wfpendingissues: (0)
+wp_wfreversecache: (0)
+wp_wfsnipcache: (1)
+wp_wfstatus: (961)
+wp_wftrafficrates: (0)
+wp_woocommerce_api_keys: (0)
+wp_woocommerce_attribute_taxonomies: (0)
+wp_woocommerce_downloadable_product_permissions: (0)
+wp_woocommerce_log: (0)
+wp_woocommerce_order_itemmeta: (0)
+wp_woocommerce_order_items: (0)
+wp_woocommerce_payment_tokenmeta: (0)
+wp_woocommerce_payment_tokens: (0)
+wp_woocommerce_sessions: (1)
+wp_woocommerce_shipping_zone_locations: (0)
+wp_woocommerce_shipping_zone_methods: (0)
+wp_woocommerce_shipping_zones: (0)
+wp_woocommerce_tax_rate_locations: (0)
+wp_woocommerce_tax_rates: (0)
+wp_wpfm_backup: (0)
+wp_wpsmtp_logs: (113)
+wp_yoast_indexable: (364)
+wp_yoast_indexable_hierarchy: (5)
+wp_yoast_migrations: (18)
+wp_yoast_primary_term: (25)
+wp_yoast_seo_links: (45)
+wp_yoast_seo_meta: (238)
+Removed '38' cache/transient rows
+
+INSERT DATA RUNTIME: 14.3971 sec.
+STEP-2 COMPLETE @ 02:47:41 - RUNTIME: 14.7117 sec.
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 02:54:19
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: "Xuân Thành Phát"
+postguid______________: false
+fullsearch____________: false
+path_old______________: "/home/xuanthanhphat.vn/public_html"
+path_new______________: "C:/xampp/htdocs/xuantp"
+siteurl_______________: "http://localhost/xuantp"
+url_old_______________: "https://xuanthanhphat.vn"
+url_new_______________: "http://localhost/xuantp"
+maxSerializeStrlen____: 4000000
+replaceMail___________: false
+dbcharset_____________: "utf8"
+dbcollate_____________: "utf8_general_ci"
+wp_mail_______________: ""
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+ssl_admin_____________: false
+cache_wp______________: true
+cache_path____________: false
+exe_safe_mode_________: false
+config_mode___________: "NEW"
+********************************************************************************
+
+
+====================================
+RUN SEARCH AND REPLACE
+====================================
+
+EVALUATE TABLE: "wp_commentmeta"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_comments"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_db7_forms"____________________________________[ROWS:    14][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_duplicator_packages"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_gks_sliders"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_gks_slides"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_icl_content_status"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_icl_core_status"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_icl_flags"____________________________________[ROWS:    65][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_icl_languages"________________________________[ROWS:    65][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_icl_languages_translations"___________________[ROWS:  4225][PG:   2][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_icl_locale_map"_______________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_icl_message_status"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_icl_mo_files_domains"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_icl_node"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_icl_reminders"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_icl_string_batches"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_icl_string_packages"__________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_icl_string_pages"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_icl_string_positions"_________________________[ROWS:  1908][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_icl_string_status"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_icl_string_translations"______________________[ROWS:     4][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_icl_string_urls"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_icl_strings"__________________________________[ROWS:  9089][PG:   3][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_icl_translate"________________________________[ROWS:   146][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_icl_translate_job"____________________________[ROWS:     6][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_icl_translation_batches"______________________[ROWS:     3][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_icl_translation_downloads"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_icl_translation_status"_______________________[ROWS:    91][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_icl_translations"_____________________________[ROWS:   385][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_links"________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_masterslider_options"_________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_masterslider_sliders"_________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_mclean_refs"__________________________________[ROWS:    93][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_mclean_scan"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_options"______________________________________[ROWS:   556][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_postmeta"_____________________________________[ROWS: 14354][PG:   5][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_posts"________________________________________[ROWS:  2231][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_revslider_css"________________________________[ROWS:   153][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_revslider_css_bkp"____________________________[ROWS:   158][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_revslider_layer_animations"___________________[ROWS:     6][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_revslider_layer_animations_bkp"_______________[ROWS:     6][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_revslider_navigations"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_navigations_bkp"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_sliders"____________________________[ROWS:    42][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_revslider_sliders_bkp"________________________[ROWS:    42][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_revslider_slides"_____________________________[ROWS:   109][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_revslider_slides_bkp"_________________________[ROWS:   111][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_revslider_static_slides"______________________[ROWS:    19][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_revslider_static_slides_bkp"__________________[ROWS:    18][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_statistics_exclusions"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_statistics_historical"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_statistics_pages"_____________________________[ROWS:   694][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_statistics_search"____________________________[ROWS:    53][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_statistics_useronline"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_statistics_visit"_____________________________[ROWS:   164][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_statistics_visitor"___________________________[ROWS:  1445][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_statistics_visitor_relationships"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_term_relationships"___________________________[ROWS:   116][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_term_taxonomy"________________________________[ROWS:    32][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_termmeta"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_terms"________________________________________[ROWS:    32][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_toolset_associations"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_toolset_connected_elements"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_toolset_post_guid_id"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_toolset_relationships"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_toolset_type_sets"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_usermeta"_____________________________________[ROWS:    28][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_users"________________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_wc_download_log"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_product_meta_lookup"_______________________[ROWS:     7][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_wc_tax_rate_classes"__________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_wc_webhooks"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfblockediplog"_______________________________[ROWS:   342][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_wfblocks7"____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfconfig"_____________________________________[ROWS:   259][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_wfcrawlers"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wffilechanges"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wffilemods"___________________________________[ROWS:  9321][PG:   3][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_wfhits"_______________________________________[ROWS:  1540][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_wfhoover"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfissues"_____________________________________[ROWS:     5][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_wfknownfilelist"______________________________[ROWS:  9321][PG:   3][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_wflivetraffichuman"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wflocs"_______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wflogins"_____________________________________[ROWS:  2000][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_wfls_2fa_secrets"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfls_settings"________________________________[ROWS:    19][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_wfnotifications"______________________________[ROWS:     7][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_wfpendingissues"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfreversecache"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfsnipcache"__________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_wfstatus"_____________________________________[ROWS:   961][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_wftrafficrates"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_api_keys"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_attribute_taxonomies"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_downloadable_product_permissions"_[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_log"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_order_itemmeta"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_order_items"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_payment_tokenmeta"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_payment_tokens"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_sessions"_________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zone_locations"__________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zone_methods"____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zones"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_tax_rate_locations"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_tax_rates"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wpfm_backup"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wpsmtp_logs"__________________________________[ROWS:   113][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_yoast_indexable"______________________________[ROWS:   364][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_yoast_indexable_hierarchy"____________________[ROWS:     5][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_yoast_migrations"_____________________________[ROWS:    18][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_yoast_primary_term"___________________________[ROWS:    25][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_yoast_seo_links"______________________________[ROWS:    45][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+
+EVALUATE TABLE: "wp_yoast_seo_meta"_______________________________[ROWS:   238][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/xuanthanhphat.vn/public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  2:"\/home\/xuanthanhphat.vn\/public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  3:"%2Fhome%2Fxuanthanhphat.vn%2Fpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  4:"\home\xuanthanhphat.vn\public_html" ==============> "C:/xampp/htdocs/xuantp"
+	SEARCH  5:"\\home\\xuanthanhphat.vn\\public_html" ===========> "C:\/xampp\/htdocs\/xuantp"
+	SEARCH  6:"%5Chome%5Cxuanthanhphat.vn%5Cpublic_html" ========> "C%3A%2Fxampp%2Fhtdocs%2Fxuantp"
+	SEARCH  7:"//xuanthanhphat.vn" ==============================> "//localhost/xuantp"
+	SEARCH  8:"\/\/xuanthanhphat.vn" ============================> "\/\/localhost\/xuantp"
+	SEARCH  9:"%2F%2Fxuanthanhphat.vn" ==========================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 10:"//www.xuanthanhphat.vn" ==========================> "//localhost/xuantp"
+	SEARCH 11:"\/\/www.xuanthanhphat.vn" ========================> "\/\/localhost\/xuantp"
+	SEARCH 12:"%2F%2Fwww.xuanthanhphat.vn" ======================> "%2F%2Flocalhost%2Fxuantp"
+	SEARCH 13:"https://localhost/xuantp" ========================> "http://localhost/xuantp"
+	SEARCH 14:"https:\/\/localhost\/xuantp" =====================> "http:\/\/localhost\/xuantp"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2Fxuantp" ================> "http%3A%2F%2Flocalhost%2Fxuantp"
+--------------------------------------
+SCANNED:	Tables:116 	|	 Rows:61067 	|	 Cells:476423 
+UPDATED:	Tables:19 	|	 Rows:6928 	|	 Cells:8736 
+ERRORS:		0 
+RUNTIME:	8.000600 sec
+
+====================================
+REMOVE LICENSE KEY
+====================================
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE DB_NAME "** OBSCURED **"
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	UPDATE WP_CACHE true
+	REMOVE WPCACHEHOME
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE MODE: "NEW"
+====================================
+- PASS: Successfully created a new .htaccess file.
+- PASS: Existing Apache '.htaccess__[HASH]' was removed
+
+====================================
+GENERAL UPDATES & CLEANUP
+====================================
+
+====================================
+DEACTIVATE PLUGINS CHECK
+====================================
+Deactivated plugins list here: Array
+(
+    [0] => really-simple-ssl/rlrsssl-really-simple-ssl.php
+    [1] => simple-google-recaptcha/simple-google-recaptcha.php
+    [2] => js_composer/js_composer.php
+)
+
+MAINTENANCE MODE DISABLE
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+
+====================================
+CLEANUP TMP FILES
+====================================
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 02:54:27 - RUNTIME: 8.0600 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[INFO] No general notices
+	SECTIONS: general
+
+-----------------------
+[INFO] No errors in database
+	SECTIONS: database
+
+-----------------------
+[INFO] No search and replace data errors
+	SECTIONS: search_replace
+
+-----------------------
+[INFO] No files extraction errors
+	SECTIONS: files
+
+====================================
